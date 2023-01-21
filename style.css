@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+
+
+body {
+    background-color: #03043e;
+ }
+
+    
+ h1 {
+    text-decoration: underline;
+    text-decoration-color: rgb(72, 245, 72);
+    text-align: center;
+    justify-content: center;
+    color: white;
+    
+}
+
+
+p {
+    color: white;  
+    text-decoration: underline;
+    text-decoration-color:    #FE4693;
+    text-align: center;
+    justify-content: center;  
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-top: 60px;
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+.btn1 {
+    background-color: rgb(225, 131, 118);
+    width: 150px;
+    height: 150px;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 30px;
+    border:  .4rem solid aquamarine;
+    border-radius: 15px;              
+}
+
+.btn2 {
+    background-color: rgb(169, 140, 238);
+    width: 150px;
+    height: 150px;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 30px;
+    border: .4rem solid aquamarine;
+    border-radius: 15px;      
+}
+    
+.btn3 {
+    background-color: rgb(249, 161, 226);
+    width: 150px;
+    height: 150px;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 30px;
+    border: .4rem solid aquamarine;
+    border-radius: 15px;  
+}
+    
+.btn4 {
+    background-color: rgb(231, 243, 178);
+    width: 150px;
+    height: 150px;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 30px;
+    border: .4rem solid aquamarine;
+    border-radius: 15px;       
+}
+    
+.btn5 {
+    background-color: rgb(245, 160, 167);
+    width: 150px;
+    height: 150px;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 30px;
+    border: .4rem solid aquamarine;
+    border-radius: 15px;     
+}
+    
+.btn6 {
+    background-color: peachpuff;
+    width: 150px;
+    height: 150px;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 30px;
+    border: .4rem solid aquamarine;
+    border-radius: 15px;    
+}
+    
+.btn7 {
+    background-color: rgb(123, 159, 244);
+    width: 150px;
+    height: 150px;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 30px;
+    border:.4rem solid aquamarine;
+    border-radius: 15px;       
+}
+
+.btn:hover {
+    transform: scale(1.3);
+}
+
+
+      
+
+
+
+
+    
+       
+    

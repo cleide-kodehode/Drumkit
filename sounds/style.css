@@ -1,0 +1,128 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+body {
+  background-color: #03043e;
+}
+
+  
+h1 {
+  text-decoration: underline;
+  text-decoration-color: rgb(72, 245, 72);
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  
+.btn1 {
+  background-color: rgb(225, 131, 118);
+  width: 10px;
+  height: 100px;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 30px;
+  border:  .4rem solid aquamarine;
+  border-radius: 15px;              
+}
+
+.btn2 {
+  background-color: rgb(169, 140, 238);
+  width: 100px;
+  height: 100px;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 30px;
+  border: .4rem solid aquamarine;
+  border-radius: 15px;      
+}
+  
+.btn3 {
+  background-color: rgb(249, 161, 226);
+  width: 100px;
+  height: 100px;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 30px;
+  border: .4rem solid aquamarine;
+  border-radius: 15px;  
+}
+  
+.btn4 {
+  background-color: rgb(231, 243, 178);
+  width: 100px;
+  height: 100px;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 30px;
+  border: .4rem solid aquamarine;
+  border-radius: 15px;       
+}
+  
+.btn5 {
+  background-color: rgb(245, 160, 167);
+  width: 100px;
+  height: 100px;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 30px;
+  border: .4rem solid aquamarine;
+  border-radius: 15px;     
+}
+  
+.btn6 {
+  background-color: peachpuff;
+  width: 100px;
+  height: 100px;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 30px;
+  border: .4rem solid aquamarine;
+  border-radius: 15px;    
+}
+  
+.btn7 {
+  background-color: rgb(123, 159, 244);
+  width: 100px;
+  height: 100px;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 30px;
+  border:.4rem solid aquamarine;
+  border-radius: 15px;       
+}
+
+
+/*
+.btn8 {
+  background-color: rgb(247, 118, 202);
+  width: 100px;
+  height: 100px;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 30px;
+  border: .4rem solid aquamarine;
+  border-radius: 15px; 
+}
+
+*/
+
+.btn:hover {
+  transform: ;
+}
+
+
+    
+
+
+
+
+  
+     
+  
