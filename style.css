@@ -8,12 +8,12 @@ body {
 
     
  h1 {
+    font-size: 55px;
     text-decoration: underline;
     text-decoration-color: rgb(72, 245, 72);
     text-align: center;
     justify-content: center;
-    color: white;
-    
+    color: white;    
 }
 
 
@@ -34,6 +34,7 @@ p {
     align-items: center;
     justify-content: center;
 }
+
     
 .btn1 {
     background-color: rgb(225, 131, 118);
@@ -46,6 +47,7 @@ p {
     border-radius: 15px;              
 }
 
+
 .btn2 {
     background-color: rgb(169, 140, 238);
     width: 150px;
@@ -56,6 +58,7 @@ p {
     border: .4rem solid aquamarine;
     border-radius: 15px;      
 }
+
     
 .btn3 {
     background-color: rgb(249, 161, 226);
@@ -67,6 +70,7 @@ p {
     border: .4rem solid aquamarine;
     border-radius: 15px;  
 }
+
     
 .btn4 {
     background-color: rgb(231, 243, 178);
@@ -78,6 +82,7 @@ p {
     border: .4rem solid aquamarine;
     border-radius: 15px;       
 }
+
     
 .btn5 {
     background-color: rgb(245, 160, 167);
@@ -89,6 +94,7 @@ p {
     border: .4rem solid aquamarine;
     border-radius: 15px;     
 }
+
     
 .btn6 {
     background-color: peachpuff;
@@ -100,6 +106,7 @@ p {
     border: .4rem solid aquamarine;
     border-radius: 15px;    
 }
+
     
 .btn7 {
     background-color: rgb(123, 159, 244);
@@ -111,6 +118,7 @@ p {
     border:.4rem solid aquamarine;
     border-radius: 15px;       
 }
+
 
 .btn:hover {
     transform: scale(1.3);
